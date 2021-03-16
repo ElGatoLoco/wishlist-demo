@@ -1,0 +1,168 @@
+[
+  {
+    "id": 1,
+    "title": "Royal Copenhagen Riflet",
+    "colors": "kontrast krus",
+    "description": "Gør dine løbeture endnu bedre med Nike Air Zoom Pegasus 37. Med utrolig React-stødabsorbering og en ny Air-enhed i forfoden er de som et koffeinlyn til dine ben. Den lette overdel ånder helt utrolig godt. Den trimmede, perfekt placeret polstring hjælper med at eliminere hotspots. Og ydersålen med super godt greb? Tja, man skal holde sig på benene for at kunne løbe. Lad mudderet flyve og gaderne forsvinde bag dig.",
+    "imageUrl": "/img/pillows1.jpg",
+    "logoUrl": "/img/pillow-logo.png",
+    "shops": [
+      {
+        "name": "Ellos",
+        "url": "ellos.com",
+        "stock": "In stock",
+        "price": 179.95
+      }
+    ],
+    "advertisments": ["/img/pillow-banner-1.jpeg", "/img/pillow-banner-2.png", "/img/pillow-banner-3.jpeg"],
+    "similarProducts": [
+      {
+        "id": 4,
+        "title": "Nike Air Max Light Gazelle",
+        "price": 1020,
+        "imageUrl": "/img/nike-air-max.jpg"
+      },
+      {
+        "id": 5,
+        "title": "2ND Day 2ND Miriam",
+        "price": 1000,
+        "imageUrl": "/img/2nd-day-miriam.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Billi Bi 3/4 støvle",
+        "price": 1599,
+        "imageUrl": "/img/billi-bi.jpeg"
+      },
+      {
+        "id": 7,
+        "title": "Nike Air Max Light Gazelle Another",
+        "price": 1120,
+        "imageUrl": "/img/nike-air-max.jpg"
+      },
+      {
+        "id": 8,
+        "title": "3RD Day 3ND Miriam",
+        "price": 1800,
+        "imageUrl": "/img/2nd-day-miriam.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Something Else",
+    "colors": "krus kontrast",
+    "description": "Gør dine løbeture endnu bedre med Nike Air Zoom Pegasus 37. Med utrolig React-stødabsorbering og en ny Air-enhed i forfoden er de som et koffeinlyn til dine ben. Den lette overdel ånder helt utrolig godt. Den trimmede, perfekt placeret polstring hjælper med at eliminere hotspots. Og ydersålen med super godt greb? Tja, man skal holde sig på benene for at kunne løbe. Lad mudderet flyve og gaderne forsvinde bag dig.",
+    "imageUrl": "/img/pillows2.jpg",
+    "shops": [
+      {
+        "name": "Sport Amore",
+        "url": "sportamore.dk",
+        "stock": "In stock",
+        "price": 760
+      },
+      {
+        "name": "Ellos",
+        "url": "ellos.com",
+        "logo": "/img/ellos-logo.png",
+        "stock": "Stock unknown",
+        "price": 950
+      }
+    ],
+    "advertisments": ["/img/pillow-banner-1.jpeg", "/img/pillow-banner-2.png", "/img/pillow-banner-3.jpeg"],
+    "similarProducts": [
+      {
+        "id": 4,
+        "title": "Nike Air Max Light Gazelle",
+        "price": 1020,
+        "imageUrl": "/img/nike-air-max.jpg"
+      },
+      {
+        "id": 5,
+        "title": "2ND Day 2ND Miriam",
+        "price": 1000,
+        "imageUrl": "/img/2nd-day-miriam.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Billi Bi 3/4 støvle",
+        "price": 1599,
+        "imageUrl": "/img/billi-bi.jpeg"
+      },
+      {
+        "id": 7,
+        "title": "Nike Air Max Light Gazelle Another",
+        "price": 1120,
+        "imageUrl": "/img/nike-air-max.jpg"
+      },
+      {
+        "id": 8,
+        "title": "3RD Day 3ND Miriam",
+        "price": 1800,
+        "imageUrl": "/img/2nd-day-miriam.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Brenner Velvet Pillows",
+    "colors": "blue yellow brown",
+    "description": "Gør dine løbeture endnu bedre med Nike Air Zoom Pegasus 37. Med utrolig React-stødabsorbering og en ny Air-enhed i forfoden er de som et koffeinlyn til dine ben. Den lette overdel ånder helt utrolig godt. Den trimmede, perfekt placeret polstring hjælper med at eliminere hotspots. Og ydersålen med super godt greb? Tja, man skal holde sig på benene for at kunne løbe. Lad mudderet flyve og gaderne forsvinde bag dig.",
+    "imageUrl": "/img/pillows3.jpg",
+    "logoUrl": "/img/pillow-logo.png",
+    "shops": [
+      {
+        "name": "Sport Amore",
+        "url": "sportamore.dk",
+        "stock": "Out of stock",
+        "price": 124.95
+      },
+      {
+        "name": "Hate Sports",
+        "url": "hatesports.io",
+        "stock": "Stock unknown",
+        "price": 99.99
+      },
+      {
+        "name": "Ellos",
+        "url": "ellos.com",
+        "logo": "/img/ellos-logo.png",
+        "stock": "In stock",
+        "price": 111
+      }
+    ],
+    "advertisments": ["/img/pillow-banner-1.jpeg", "/img/pillow-banner-2.png", "/img/pillow-banner-3.jpeg"],
+    "similarProducts": [
+      {
+        "id": 4,
+        "title": "Nike Air Max Light Gazelle",
+        "price": 1020,
+        "imageUrl": "/img/nike-air-max.jpg"
+      },
+      {
+        "id": 5,
+        "title": "2ND Day 2ND Miriam",
+        "price": 1000,
+        "imageUrl": "/img/2nd-day-miriam.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Billi Bi 3/4 støvle",
+        "price": 1599,
+        "imageUrl": "/img/billi-bi.jpeg"
+      },
+      {
+        "id": 7,
+        "title": "Nike Air Max Light Gazelle Another",
+        "price": 1120,
+        "imageUrl": "/img/nike-air-max.jpg"
+      },
+      {
+        "id": 8,
+        "title": "3RD Day 3ND Miriam",
+        "price": 1800,
+        "imageUrl": "/img/2nd-day-miriam.jpg"
+      }
+    ]
+  }
+]

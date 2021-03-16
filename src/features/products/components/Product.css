@@ -1,0 +1,150 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+  scroll-snap-type: y mandatory;
+}
+.product-image-container {
+  position: relative;
+  scroll-snap-align: start;
+}
+.product-image {
+  min-width: 100%;
+}
+.back-button {
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  margin: 16px;
+  background-color: transparent;
+  background-image: url('../../../shared/icons/navigation-back.svg');
+  border: none;
+  outline: none;
+}
+.product-logo {
+  position: absolute;
+  bottom: -1px;
+  left: 16px;
+  max-width: 103px;
+}
+.add-to-wishlist {
+  position: absolute;
+  bottom: 16px;
+  right: 16px;
+  width: 125px;
+  height: 30px;
+  text-align: left;
+  padding-left: 12px;
+  background: #d8d8d8 url('../../../shared/icons/wishlist.svg') no-repeat center right 5px;
+  color: #1a405d;
+  font-size: 12px;
+  border: none;
+  border-radius: 15px;
+  outline: none;
+}
+.add-to-wishlist:active {
+  background-color: #ccc;
+}
+.content {
+  background: white;
+  scroll-snap-align: start;
+  padding: 16px;
+}
+.fixed {
+  display: block;
+  background-color: #fff;
+  position: -webkit-sticky;
+  position: -moz-sticky;
+  position: -o-sticky;
+  position: -ms-sticky;
+  position: sticky;
+  bottom: 0;
+  box-shadow: none;
+}
+.fixed button {
+  width: calc(100% - 18px);
+  height: 36px;
+  padding: 2px;
+  background-color: #1a405d;
+  color: #fff;
+  text-transform: uppercase;
+  margin: 10px;
+  box-sizing: border-box;
+  border: none;
+}
+
+.product-data {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.product-details {
+  display: flex;
+  justify-content: space-between;
+}
+.product-info h3,
+.product-info h4 {
+  font-size: 16px;
+  margin: 5px;
+}
+.availability {
+  color: #3cca2f;
+  font-size: 12px;
+  font-weight: bold;
+}
+.price {
+  font-size: 18px;
+  text-align: right;
+}
+.product-related {
+  padding: 16px;
+  scroll-snap-align: end;
+}
+.product-related hr {
+  border: 1px solid #dddddd;
+  margin: 16px 0;
+}
+.advertisments {
+  display: flex;
+  overflow-x: auto;
+}
+.advertisment {
+  height: 140px;
+  flex: 0 0 328px;
+  margin-right: 15px;
+  background-color: gainsboro;
+  overflow: hidden;
+}
+.advertisment img {
+  width: 100%;
+}
+
+.similar-wishes {
+  display: flex;
+  overflow-x: auto;
+}
+.wish {
+  flex: 0 0 140px;
+  margin-right: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.wish-img {
+  height: 100%;
+  height: 164px;
+}
+.wish-title {
+  color: #1a405d;
+  font-size: 12px;
+  font-weight: bold;
+  margin: 0;
+  align-self: flex-start;
+}
+.wish-price {
+  color: #1a405d;
+  font-size: 10px;
+  margin: 0;
+  align-self: flex-start;
+}
